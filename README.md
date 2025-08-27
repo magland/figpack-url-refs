@@ -17,8 +17,8 @@ The data is updated daily and on each push to the main branch. You can also trig
 
 The data is available in two formats:
 
-1. **Web Interface**: Visit our [GitHub Pages site](https://[username].github.io/[repository-name]/) for a user-friendly view
-2. **JSON API**: Access the raw data at `https://[username].github.io/[repository-name]/figpack-url-refs.json`
+1. **Web Interface**: Visit the [GitHub Pages site](https://magland.github.io/figpack-url-refs/) for a user-friendly view
+2. **JSON API**: Access the raw data at `https://magland.github.io/figpack-url-refs/figpack-url-refs.json`
 
 The JSON data structure:
 
@@ -45,8 +45,8 @@ The JSON data structure:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/[username]/[repository-name].git
-   cd [repository-name]
+   git clone https://github.com/magland/figpack-url-refs.git
+   cd figpack-url-refs
    ```
 
 2. Install dependencies:
